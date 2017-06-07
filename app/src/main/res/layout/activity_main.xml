@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="xir1n11.remidiuts.telkomschid.remidiuts.MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/swipe"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Navigation 1" />
+
+        <Button
+            android:id="@+id/tab"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Navigation 2" />
+
+        <Button
+            android:id="@+id/spin"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Navigation 3" />
+
+        <Button
+            android:id="@+id/navdraw"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Navigation 4" />
+
+    </LinearLayout>
+
+</android.support.constraint.ConstraintLayout>
