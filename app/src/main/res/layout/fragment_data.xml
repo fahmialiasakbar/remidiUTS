@@ -6,8 +6,9 @@
 
     <!-- TODO: Update blank fragment layout -->
     <TextView
+        android:id="@+id/textView2"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:text="Nama  : Fahmi Akbar\nKelas    : XI EPL 1\nAbsen   : 11\nNIS       :4707" />
+        android:text="Nama      : Fahmi Akbar\nKelas      : XI RPL 1\nAbsen     : 11\nNIS          : 4707" />
 
 </FrameLayout>
